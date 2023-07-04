@@ -1,0 +1,7 @@
+cloudinary
+
+클라우드 Name: kobaaang
+
+클라우드 Id: 2b694d7ce3f357debda95fb747cfd9
+
+upload presets: ml_default

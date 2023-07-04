@@ -1,0 +1,3 @@
+yarn add react-uuid
+
+import {uuid} from 'react-uuid'
